@@ -1,2 +1,2 @@
 # Property_Tax_Calculation
-Property Tax Calculation for Village Council is Desktop Software. This Application is use for calculating tax of properties according to their Rates and Types of building and Duration of Construction and Store the data of villagers in that village. And we have developed this project in C# .NET with Microsoft sql server. 
+The Property Tax Calculation for Village Council is a desktop software application designed for assessing property taxes based on predetermined rates, building types, construction durations, and storing villager data within the village. Developed using C# .NET with Microsoft SQL Server, this program facilitates efficient tax computation and data management for the council's administration.
